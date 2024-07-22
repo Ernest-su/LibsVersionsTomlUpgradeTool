@@ -1,4 +1,4 @@
-rootProject.name = "tomlVersionTool"
+rootProject.name = "LibsVersionsTomlUpgradeTool"
 
 pluginManagement {
     repositories {
