@@ -1,0 +1,10 @@
+[versions]
+kotlin = "2.0.20-Beta2"
+junit = "5.11.0-M2"
+tomlj = "1.1.1"
+okhttp = "5.0.0-alpha.14"
+[libraries]
+kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
+junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit" }
+tomlj = { module = "org.tomlj:tomlj", version.ref = "tomlj" }
+okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttp" }
