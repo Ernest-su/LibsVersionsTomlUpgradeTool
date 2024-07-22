@@ -7,5 +7,3 @@ pluginManagement {
     }
 }
 
-include(":app")
-
